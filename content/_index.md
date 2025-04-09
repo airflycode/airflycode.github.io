@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-04-08
 type: landing
 
 design:
@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -31,15 +31,23 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As a Ph.D. researcher at the **Institute of Measurement, Control and Microtechnology** at **Ulm University**, my work focuses on developing robust sensor fusion techniques for autonomous driving systems. A central aspect of my research has been on **monitoring and self-assessment of tracking algorithms**, aiming to improve the reliability and robustness of multi-sensor fusion pipelines.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        During this time, I have authored and co-authored **nine first- or co-first-author publications**, along with several additional co-author contributions. These works have primarily been published at leading IEEE and ISIF conferences, including **IV**, **ITSC**, **FUSION**, and **MFI**.
+
+        I have contributed to several collaborative research projects, with key roles in the [SecForCARs](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/sicherheit-fuer-vernetzte-autonome-fahrzeuge) and [EVENTS](https://www.events-project.eu/) projects, focusing on secure and reliable environment perception systems for intelligent vehicles.
+
+        Beyond my core research, I am actively involved in student mentoring. I have supervised **three Bachelor's theses** and **five Master's theses**, primarily in the areas of sensor fusion, environment perception, and autonomous driving. In addition, I have mentored **seven working and research students**.
+
+        I have also gained substantial teaching experience, serving as an exercise supervisor in *Digital Control Systems* and in practical courses such as *Measurement and Automation Technology* and *Control Engineering*. Earlier in my academic journey, I held several teaching assistant positions during my Master's and Bachelor's studies in both the **USA** and **Germany**.
+
+        (Last updated: April 9, 2025)
+
     design:
       columns: '1'
   - block: collection
