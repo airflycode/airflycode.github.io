@@ -34,11 +34,11 @@ profiles:
     url: 'mailto:thomas.griebel@uni-ulm.de'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.de/citations?user=vLJiuxUAAAAJ&hl=de
+    url: https://scholar.google.com/citations?user=vLJiuxUAAAAJ&hl=en&oi=ao
   - icon: brands/github
     url: https://github.com/griebelthomas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/thomas-griebel-89ba831b1/
+    url: https://www.linkedin.com/in/griebel-thomas/
 
 interests:
   - Object-Tracking Algorithms
