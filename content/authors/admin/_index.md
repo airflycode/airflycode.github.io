@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:thomas.griebel@uni-ulm.de'
+    url: 'mailto:griebel.th@gmail.com'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=vLJiuxUAAAAJ&hl=en&oi=ao

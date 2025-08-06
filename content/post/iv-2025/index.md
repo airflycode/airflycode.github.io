@@ -1,5 +1,5 @@
 ---
-title: Two Workshop Talks at IEEE Intelligent Vehicles Symposium 2025 in Romania
+title: 👥 🚗 Two Workshop Talks at IEEE Intelligent Vehicles Symposium 2025 in Romania 🇷🇴 🎉
 summary: I had the pleasure of contributing to two exciting workshops at IV2025 in Romania, focusing on safety and uncertainty in autonomous driving.
 date: 2025-06-22
 authors:
