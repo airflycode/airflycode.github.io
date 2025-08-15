@@ -76,31 +76,16 @@ education:
     date_start: 2012-04-01
     date_end: 2015-05-01
 
-# work:
-#   - position: Research Assistant, PhD Student
-#     company_name: Ulm University
-#     company_url: 'https://www.uni-ulm.de/en/in/institute-of-measurement-control-and-microtechnology/'
-#     company_logo: 'logo/_Logo_MRM_ohneText.svg'
-#     icon: '_Logo_MRM_ohneText.svg'
-#     date_start: 2019-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+work:
+  - position: Research Assistant, PhD Student
+    company_name: Ulm University
+    company_url: 'https://www.uni-ulm.de/en/in/institute-of-measurement-control-and-microtechnology/'
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: ''
+    summary: |
+      My research focuses on sensor data fusion, filtering and estimation, and signal processing - particularly in the context of environment perception for autonomous driving. 
+      I am especially interested in monitoring and self-assessment of tracking algorithms to enhance the robustness of sensor fusion systems.
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -174,12 +159,15 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 ## About Me
 
-I received my B.Sc. in Mathematics and Management from Ulm University, Germany, in 2015. 
+I received my B.Sc. in Mathematics and Management from Ulm University, Germany, in 2015.
 I then earned an M.Sc. in Applied Mathematics from Missouri University of Science and Technology, USA, in 2017, followed by an M.Sc. in Computational Science and Engineering from Ulm University in 2019.
 
-Since 2019, I have been a researcher at the Institute of Measurement, Control and Microtechnology at Ulm University. 
-My research focuses on sensor data fusion, filtering and estimation, and signal processing - particularly in the context of environment perception for autonomous driving. 
+Since 2019, I have been a researcher at the Institute of Measurement, Control and Microtechnology at Ulm University.
+My research focuses on sensor data fusion, filtering and estimation, and signal processing - particularly in the context of environment perception for autonomous driving.
 I am especially interested in monitoring and self-assessment of tracking algorithms to enhance the robustness of sensor fusion systems.
+
+## Other
+
+Add your content here.
